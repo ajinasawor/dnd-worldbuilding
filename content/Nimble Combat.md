@@ -9,12 +9,12 @@ Saat combat didalam [[Black Shard|Dungeon]], player akan menggunakan mekanik Nim
 # Rule dasar
 Diambil dari core rule Nimble TTRPG dengan modifikasi.
 ## Hit Points & Dying
-- Ketika Hit points (HP) mencapai 0, mendapatkan 1 [[Wound]], dan mendapat status [[Dying]]. Player dengan status [[Dying]] hanya dapat melakukan melakukan 1 aksi, yaitu:
+- Ketika Hit points (HP) mencapai 0, karakter mendapatkan 1 [[Wound]], dan mendapat status [[Dying]]. Player  yang memiliki [[Wound]] akan medapatkan disadvantage saat melakukan [[#Heroic Actions]]. Player dengan status [[Dying]] tidak bisa berpindah tempat tanpa bantuan player lain, dan hanya dapat melakukan melakukan 1 aksi, yaitu:
 	- Attack/Casting Spell : mengakibatkan 1 [[Wound]], kecuali berhasil melakukan DC 10 STR save
 	- Terkena serangan akan mendapatkan 2 [[Wound]], CRIT mengakibatkan 3 [[Wound]].
 	- [[Dying]] akan menghilangkan aggro musuh, kecuali saat melakukan Attack/Casting Spell
-	Ketika player mendapatkan 4 [[Wound]], mereka mati ([[Death|teleport kembali ke Arkhe]])
-	Note: spell/item yang terlibat dalam mekanik Death Saving Throw & Revive akan mendapatkan [[Heal & Revive|efek baru]]
+	Ketika player mendapatkan 6 [[Wound]], mereka mati ([[Death|teleport kembali ke Arkhe]])
+	Note: spell/item yang terlibat dalam mekanik Healing, Death Saving Throw & Revive akan mendapatkan [[Heal & Revive|penyesuaian efek]].
 ## Advantage/Disadvantage
 - Advantage (ADV) mendapatkan tambahan roll 1 dadu, eliminasi  dadu terendah
 - Disadvantage (DIS) mendapatkan tambahan roll 1 dadu, eliminasi dadu tertinggi
