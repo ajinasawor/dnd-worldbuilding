@@ -13,6 +13,12 @@ draft: false
 [[Deity]]
 [[Region]]
 [[Dungeon]]
+## Player’s Guide
+[[Nimble Combat]]
+[[Arkhe]]
+[[Fragmented Dungeons]]
+[[Meta progression]]
+
 ## Shop
 [[Player's Shop]]
 [[General Store]]
