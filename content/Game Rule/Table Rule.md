@@ -11,11 +11,11 @@ tags:
  **Language**: Indonesia
  **Media**: Semi-Digital (pencil & paper, smartphone, laptop, tablet)
  **Duration**: 2-4 hours
- ---
+ ------
  **Theme**: Roleplaying, Puzzle, Battle, Randomly Generated Dungeon
  **Genre**: Cosmic Fantasy, Isekai
  **Starting Level**: 3
- ---
+ ------
 **DM Notes:**
 Sesi ini merupakan sesi playtesting mekanik homebrew yang menggantikan core mekanik dari D&D 5e, yaitu pada mekanik combat ([[Nimble Combat]]), mekanik homebrew Dungeon Generator dan merupakan uji coba perdana sebagai Dungeon Master. Jadi mohon saling menghargai dan kerja sama supaya permainan tetap menyenangkan. Feedback dari player setelah sesi selesai sangat membantu!
 
