@@ -18,7 +18,7 @@ draft: false
 [[Arkhe]]
 [[Fragmented Dungeons]]
 [[Meta progression]]
-
+[[dm.clone_blank]]
 ## Shop
 [[Player's Shop]]
 [[General Store]]

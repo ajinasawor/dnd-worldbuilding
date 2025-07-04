@@ -1,5 +1,5 @@
 ---
-title: clone_blank
+title: player.clone_blank
 draft: false
 ---
 clone_blank
