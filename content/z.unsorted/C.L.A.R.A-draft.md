@@ -1,3 +1,8 @@
+---
+title: C.L.A.R.A-draft
+draft: true
+---
+
 Berikut 7 ide kepanjangan **C.L.A.R.A** untuk NPC front office guild dalam dunia Draggonova, dilengkapi lore dan mekanisme quest unik:
 
 ---

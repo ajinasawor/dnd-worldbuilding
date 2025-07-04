@@ -1,6 +1,6 @@
 ---
 title: <%tp.file.title%>
-draft: 
+draft: true
 tags:
 ---
 ```statblock

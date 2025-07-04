@@ -1,6 +1,6 @@
 ---
 title: dm.clone_blank
-draft: false
+draft: true
 tags:
   - index
 ---

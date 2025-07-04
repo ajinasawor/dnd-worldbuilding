@@ -6,7 +6,7 @@ tags:
   - playtesting
   - rule
 ---
-Saat combat didalam [[Black Shard|Dungeon]], player akan menggunakan mekanik Nimble Combat yang berbeda dengan Core mechanic dari Combat D&D 5e. 
+Saat combat didalam [[Fragmented Dungeon|Dungeon]], player akan menggunakan mekanik Nimble Combat yang berbeda dengan Core mechanic dari Combat D&D 5e. 
 # Rule dasar
 Diambil dari core rule Nimble TTRPG dengan modifikasi.
 ## Hit Points & Dying
