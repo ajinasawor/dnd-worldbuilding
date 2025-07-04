@@ -1,5 +1,5 @@
 ---
-title: <%tp.file.title%>
+title: bestiary.template
 draft: true
 tags:
 ---
