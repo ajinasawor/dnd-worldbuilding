@@ -1,24 +1,30 @@
 ---
 title: Dragon Essence Dungeons - Welcome to World of Draconia
 draft: false
+tags:
+  - index
 ---
-## Campaign Arc
-
+## Campaign Scheduled
+[[Dragon Essence Dungeons - Welcome to World of Draconia. Playtesting version alpha 0.25.07.1]]
 ## Campaign History
 
+## Game Rule
+[[Nimble Combat]]
+[[Table Rule]]
+
+%%
 ## Lore
 [[Draggonova - Unova Creatii]]
-[[Player Character]]
-[[Non Player Character]]
+[[Player Character - Index|PC]]
+[[Non Player Character - Index|NPC]]
 [[Deity]]
 [[Region]]
-[[Dungeon]]
 ## Player’s Guide
 [[Nimble Combat]]
 [[Arkhe]]
-[[Fragmented Dungeons]]
+[[Fragmented Dungeon]]
 [[Meta progression]]
-[[dm.clone_blank]]
+[[Index.DM]]
 ## Shop
 [[Player's Shop]]
 [[General Store]]
@@ -26,3 +32,4 @@ draft: false
 [[Magic Shop]]
 [[Alchemy Store]]
 [[Bookstore]]
+%%

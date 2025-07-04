@@ -4,6 +4,7 @@ draft: false
 tags:
   - homebrew
   - playtesting
+  - rule
 ---
 Saat combat didalam [[Black Shard|Dungeon]], player akan menggunakan mekanik Nimble Combat yang berbeda dengan Core mechanic dari Combat D&D 5e. 
 # Rule dasar

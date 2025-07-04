@@ -1,4 +1,4 @@
 ---
 title: Deity
-draft: false
+draft: true
 ---

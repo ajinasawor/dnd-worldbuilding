@@ -1,6 +1,8 @@
 ---
 title: dm.clone_blank
 draft: false
+tags:
+  - index
 ---
 1. **Hook**: Surat darurat dari desa (kobold menculik warga).  
 2. **Lokasi**: Hutan terlarang + gua kobold (map sederhana).  
