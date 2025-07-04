@@ -10,6 +10,7 @@ draft: false
    - Ruang 2: Pemimpin kobold & serigala peliharaan (CR 2).  
 5. **Loot**: Peta kuno + pedang +1.  
 6. **Cliffhanger**: Portal mulai berkedip...  
+![[statblock-Shattered Spider.png]]
 ```statblock
 creature: Shattered Spider
 ```
