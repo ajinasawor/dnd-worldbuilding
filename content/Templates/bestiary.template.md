@@ -1,5 +1,5 @@
 ---
-title: bestiary.template
+title: <%tp.file.title%>
 draft: true
 tags:
 ---
@@ -39,6 +39,8 @@ traits:
     desc: dessatu
   - name: duwa
     desc: desduwa
+  - name: Loot
+    desc: Temporal Carapace (1d4 material), Spider Paste (1d6 ration)
 actions:
   - name: tiga
     desc: destiga

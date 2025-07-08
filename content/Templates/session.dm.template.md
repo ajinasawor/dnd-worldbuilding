@@ -1,5 +1,5 @@
 ---
-title: session.dm.template
+title: <%tp.file.title%>
 draft: true
 ---
 

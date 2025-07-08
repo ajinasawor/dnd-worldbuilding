@@ -1,5 +1,5 @@
 ---
-title: session.player.template
+title: <%tp.file.title%>
 draft: true
 ---
 

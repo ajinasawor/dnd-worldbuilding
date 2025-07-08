@@ -1,5 +1,5 @@
 ---
-title: loot.template
+title: <%tp.file.title%>
 draft: true
 ---
 

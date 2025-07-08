@@ -1,0 +1,1 @@
+total player x rata-rata level /2 = CR maksimum yang bisa dihadapi party

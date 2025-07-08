@@ -1,5 +1,5 @@
 ---
-title: character.sheet
+title: <%tp.file.title%>
 draft: true
 ---
 

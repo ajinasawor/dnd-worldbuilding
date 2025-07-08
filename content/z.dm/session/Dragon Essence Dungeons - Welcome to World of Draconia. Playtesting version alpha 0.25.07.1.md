@@ -29,8 +29,8 @@ Setelah player log in, player disamput oleh NPC [[C.L.A.R.A]]
 # NPC
 
 # Encounter  
-   - Ruang 1: Jebakan jaring + 4 kobold.  
-   - Ruang 2: Pemimpin kobold & serigala peliharaan (CR 2).  
+```statblock
+```
 # Loot
 
 # Cliffhanger
