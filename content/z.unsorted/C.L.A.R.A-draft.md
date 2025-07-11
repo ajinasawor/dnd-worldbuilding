@@ -119,3 +119,8 @@ graph TB
 
 > 💡 **Tip**: Gunakan CLARA sebagai *living tutorial* yang secara progresif menunjukkan keanehan dunia:  
 > *"Selamat datang Playtester! Mohon abaikan suara jeritan dari Void Sector 7. Itu... eh, hanya bug audio. Ya. Bug."*
+
+
+---
+## CLARA Contract
+1. Saat player hanya menyisakan 1 player dengan status Dying, atau sesaat setelah TPK. CLARA akan muncul dan memberikan Contract untuk revive seluruh anggota tim. Namun dengan konsekuensi. NPC CLARA memilik 6 alter ego, yang akan memberikan 6 kontrak dengan konsekuensi yang berbeda. muncul dengan menggunakan rol dadu 1d6.

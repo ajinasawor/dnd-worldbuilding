@@ -4,29 +4,25 @@ draft: true
 tags:
   - dm-tool
 ---
-Berikut sistem **dungeon generator roguelike berbasis kartu poker** untuk campaign Draggonova Anda. Sistem ini menggunakan **1 dek poker standar (52 kartu + 2 Joker)** sebagai *seed* procedural, dengan setiap kartu memetakan elemen dungeon, monster, loot, dan event unik.
-
----
-
+Dungeon memiliki 3 level (saat ini): 
+- Level 1 : 3-5 ruang
+- Level 2 : 5-7 ruang
+- Level 3 : 8-10 ruang.
 ### **Mekanisme Dasar**
 1. **Siapkan 1 dek poker**. 
-2. **Tentukan "Depth" Dungeon** (jumlah ruangan):
-   - Depth 1-5: 5 ruang
-   - Depth 6-10: 7 ruang
-   - Depth 11+: 9 ruang
+2. **Tentukan Level Dungeon**
 3. **Draw kartu** berurutan untuk setiap ruang (3 kartu/ruang).
 
 ---
-
 ### **Mapping Kartu → Elemen Dungeon**
-#### **KARTU PERTAMA: TIPE RUANGAN** (Suit)  
-| Suit           | Tipe Ruangan     | Koneksi         | Fitur Khusus                   |
-| -------------- | ---------------- | --------------- | ------------------------------ |
-| **♥ Hati**     | Chaos Shrine     | 1-2 pintu       | Perangkap acak, loot berisiko  |
-| **♦ Wajik**    | Order Archive    | 1 pintu (kunci) | Puzzle, loot terprediksi       |
-| **♠ Keriting** | Void Corridor    | 3+ pintu        | Monster ambush, jalan pintas   |
-| **♣ Sekop**    | Temporal Gallery | 1 pintu         | Time-warp, efek durasi panjang |
 
+#### **KARTU PERTAMA: TIPE RUANGAN** (Suit)  
+| Suit           | Tipe Ruangan     | Koneksi         | Fitur Khusus             |
+| -------------- | ---------------- | --------------- | ------------------------ |
+| **♥ Hati**     | Chaos Shrine     | 1-2 pintu       | Trap Room                |
+| **♦ Wajik**    | Order Archive    | 1 pintu (kunci) | Puzzle Room              |
+| **♠ Keriting** | Void Corridor    | 3+ pintu        | Monster ambush, Shortcut |
+| **♣ Sekop**    | Temporal Gallery | 1 pintu         | Time-Warp                |
 #### **KARTU KEDUA: KONTEN RUANGAN** (Nilai)  
 | Nilai Kartu | Monster (CR)       | Trap/Loot               | Event Glitch Draggonova        |
 | ----------- | ------------------ | ----------------------- | ------------------------------ |
@@ -37,6 +33,24 @@ Berikut sistem **dungeon generator roguelike berbasis kartu poker** untuk campai
 | **Joker**   | -                  | Dragon Shards x5        | **System Reboot!** (reset AP)  |
 
 #### **KARTU KETIGA: VARIASI** (Kombinasi Warna-Nilai)  
+
+| Jenis Kartu | Nilai Kartu | Efek                                             |
+| ----------- | ----------- | ------------------------------------------------ |
+| ♥           | 2,3,4,5     | Ability Check / Turn pertama mendapatkan 1 ADV   |
+| ♥           | 6,7,8,9,10  |                                                  |
+| ♥           | J,Q,K,A     | Pada Roll pertama apapun, bisa Reroll jika fail. |
+| ♦           | 2,3,4,5     |                                                  |
+| ♦           | 6,7,8,9,10  |                                                  |
+| ♦           | J,Q,K,A     |                                                  |
+| ♠           | 2,3,4,5     |                                                  |
+| ♠           | 6,7,8,9,10  |                                                  |
+| ♠           | J,Q,K,A     |                                                  |
+| ♣           | 2,3,4,5     |                                                  |
+| ♣           | 6,7,8,9,10  |                                                  |
+| ♣           | J,Q,K,A     |                                                  |
+
+- ♥
+- ♦
 - **Merah** (♥/♦): Efek menguntungkan (e.g., +1 AP sementara, heal)  
 - **Hitam** (♠/♣): Efek merugikan (e.g., -1 AP, spawn monster tambahan)  
 - **Nilai Kartu**: Skala efek (e.g., 3 = minor, A = major)  
@@ -98,7 +112,7 @@ Berikut sistem **dungeon generator roguelike berbasis kartu poker** untuk campai
    - Depth 10: Monster HP x2.0, damage +50%  
 
 ```mermaid  
-flowchart TD  
+flowchart  TD
     Start[Draw 3 Kartu] --> Suit["Kartu 1: Tipe Ruang"]  
     Suit --> Nilai["Kartu 2: Konten"]  
     Nilai --> Warna["Kartu 3: Variasi"]  

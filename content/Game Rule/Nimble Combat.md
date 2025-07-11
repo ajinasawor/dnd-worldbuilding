@@ -17,7 +17,7 @@ Diambil dari core rule Nimble TTRPG dengan modifikasi.
 	Ketika player mendapatkan 6 [[Wound]], mereka mati ([[Death|teleport kembali ke Arkhe]])
 	Note: spell/item yang terlibat dalam mekanik Healing, Death Saving Throw & Revive akan mendapatkan [[Heal & Revive|penyesuaian efek]].
 ## Attack Roll Modification & Damage Bonus
-Semua serangan tidak memerlukan [[#Attack]] roll dan selalu hit, sehinga semua Spell, Feat, dan Trait yang memberikan efek pada attack roll akan dikonversi menjadi damage bonus.
+Semua serangan tidak memerlukan [[#Attack]], sehinga semua Spell, Feat, dan Trait yang memberikan efek pada attack roll akan dikonversi menjadi damage bonus.
 - Spell, Feat, dan Trait yang memberikan bonus pada Attack Roll, seperti spell Bless dan feat Archery, akan memberikan bonus damage pada primary dice roll (maksimal sebesar nilai tertinggi dice), dan dikalkukasi sebelum penentuan MISS/HIT/CRIT (dapat mengubah roll MIS menjadi HIT, atau menyebabkan roll HIT menjadi CRIT).
 - Spell, Feat, dan Trait yang memberikan efek reroll, akan memberikan reroll pada primary dice jika roll pertama MISS, atau bisa reroll semua dice untuk mendapatkan kesempatan total damage yang lebih besar (player yang melakukan reroll harus menggunakan hasil roll yang baru).
 - Spell, Feat, dan Trait yang memberikan ADV, atau menghilangkan DIS, bekerja seperti normal dengan mekanisme [[#Advantage/Disadvantage]].
@@ -74,7 +74,7 @@ Semua serangan tidak memerlukan [[#Attack]] roll dan selalu hit, sehinga semua S
 
 ## Heroic Actions
 ### Attack
-Damage [[#Attack Roll Modification & Damage Bonus|selalu hit]], player langsung roll damage, jika player roll 1, maka attack MISS dan attack tidak memberikan efek. (attack yang membutuhkan lebih dari satu dice, dice paling kiri disebut sebagai [[Primary dice]] yang digunakan untuk menentukan MISS/HIT/CRIT). Attack/Spell yang membutuhkan Musuh melakukan Ability/DC Saving Throw, bekerja seperti normal. 
+Damage [[#Attack Roll Modification & Damage Bonus|selalu hit]], kecuali pada roll damage, player roll 1, maka attack MISS dan attack tidak memberikan efek. (attack yang membutuhkan lebih dari satu dice, dice paling kiri disebut sebagai [[Primary dice]] yang digunakan untuk menentukan MISS/HIT/CRIT). Attack/Spell yang membutuhkan Ability/DC Saving Throw, bekerja seperti normal. 
 #### Spellcasting
 Casting Leveled Spell membutuhkan 2 AP. Casting Cantrip membutuhkan 1 AP. [[#Rushed Attacks]] rule tetap berlaku.
 #### Exploding Critical Hits
@@ -126,21 +126,7 @@ Ready action adalah aksi yang dipersiapkan player di akhir giliran sebagai reaks
 ## Heroic Reactions
 Dengan mengurangi 1 AP pada giliran selanjutnya, player dapat menggunakan Heroic Reactions pada giliran player lain atau musuh, maksimal 1 Heroic Reactions tiap player tiap ronde.
 ### Defend
-[[Armor Class]] (AC) akan dikoversikan sebagai Armor yang bertindak sebagai defensif aktif untuk mengurangi total damage yang diterima ([[Damage Reduction]]) saat player menggunakan reaksi Defend.
-
-| Jenis Armor              | Defence Dice | Armor Class (AC)    |
-| ------------------------ | ------------ | ------------------- |
-| Unarmored                | 1d4          | 11 or lower         |
-| Light armor              | 1d6          | 12-14               |
-| Medium armor             | 1d8          | 15-17               |
-| Heavy armor              | 1d10         | 18-20               |
-| DEX modifier +3 or above | +1 DR        | every 3 AC above 20 |
-| Shield                   | +1 DR        |                     |
-| Magic Shield (+1/+2/+3)  | +x DR        |                     |
-- Class Feature, Racial Traits, atau Spell yang mengubah teknis perhitungan AC (seperti unarmored defense, mage armor, dan barkskin), tetap berlaku, dengan mereferensikan total akhir AC pada tabel.
-- Class Feature, Racial Traits, Spell, Equipment selain armor, dan Consumables yang memiliki efek memberikan bonus AC akan dikonversikan menjadi flat DR sejumlah Bonus AC/2 (pembulatan kebawah, minimal +1 DR)
-> [!important] Perhitungan Damage Reduction (DR)
-> DR = Jenis armor /total AC (pilih salah satu yang tertinggi) + flat DR
+[[Armor Class]] (AC) akan dikoversikan sebagai Armor yang bertindak sebagai defensif aktif untuk mengurangi total damage yang diterima ([[Damage Reduction]]) saat player menggunakan reaksi Defend. Jumlah pengurangan damage sebesar total AC player (pengurangan damage tidak bisa dibawah nol, kecuali akibat efek khusus)
 ### Interpose
 Dalam radius 10ft, player dapat mengcover player lain saat diserang musuh. Player yang melakukan reaksi Interpose akan terkena serangan dan memindahkan karakter target di 1 area kosong radius 5 ft sekitar player.
 ### Opportunity Attack

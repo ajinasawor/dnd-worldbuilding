@@ -27,7 +27,7 @@ cr: 4
 traits:
   - name: Fractured Reality
     desc: dalam radius area 15ft. terdapat glitch pada terrain.dimensi ruang retak seperti pecahan cermin dan menjadi [[Difficult Terrain]].
-  - name: Spatial Jaunt
+  - name: Spatial Jaunt (1 AP)
     desc: teleport 30 ft. sebagai bagian dari movement.
   - name: Pattern Move
     desc: Move-Bite-Move-Web of Fragement-Move-FoldSpace-repeat. on HP 30% or less Bite-Bite-Bite(move if no available target)
