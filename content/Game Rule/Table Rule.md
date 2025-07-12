@@ -27,9 +27,7 @@ Menggunakan mekanik homebrew [[Nimble Combat]]. Akan disediakan cheat sheet oleh
 
 # Character Preparation
 Hal-hal yang perlu dipersiapkan pemain saat pembuatan karakter, antara lain:
-1. Membuat backstory singkat karakter (player membuat backstory karakter didalam "game", dan karakter pemain sebelum masuk kedalam "game"). 
-2. Backstory boleh menghubungkan dengan backstory pemain lain, dengan persetujuan player dan DM.
-3. Ability Standard Array
-4. Boleh membuat character sheet sebelum sesi dimulai. 
-5. Menambahkan potrait gambar karakter dan dikirim lewat WA pribadi DM (Opsional)
-6. Starting equipment sesuai dengan referensi rulebook.
+1. Backstory karakter adalah sebagai alpha play tester game Dragon Essence Dungeons.
+2. Ability Score : Standard Array, Roll dadu (4d6 throw the lowest, 3 set)
+3. Character Creation berupa Race, Class, Subclass , Background, Backstory bisa dikirim H-1 Sesi dimulai. Roll Ability dan HP bisa dilakukan saat Sesi.  
+4. Starting equipment sesuai dengan referensi rule book.

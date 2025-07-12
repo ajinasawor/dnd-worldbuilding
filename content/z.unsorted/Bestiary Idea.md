@@ -172,5 +172,3 @@ Berikut kumpulan lengkap monster homebrew untuk campaign Draggonova, dilengkapi 
    - Monster dapat efek bonus saat Glitch Event aktif:  
      - *Chrono-Slime*: Time-Slip biaya 0 AP di area *Localized Time Dilation*  
      - *Spatial Weaver*: Fold Space hanya butuh 2 AP di area *Gravity Shift*  
-
-> 💡 **Tip GM:** Gunakan [D&D Beyond Homebrew Tool](https://www.dndbeyond.com/monsters) untuk generate statblock otomatis!

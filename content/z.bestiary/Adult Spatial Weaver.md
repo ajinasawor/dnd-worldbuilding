@@ -23,10 +23,10 @@ damage_resistances: Radiant
 damage_immunities: Force
 condition_immunities: Charmed
 senses: Darkvision 120 ft
-cr: 4
+cr: 
 traits:
   - name: Fractured Reality
-    desc: dalam radius area 15ft. terdapat glitch pada terrain.dimensi ruang retak seperti pecahan cermin dan menjadi [[Difficult Terrain]].
+    desc: dalam radius area 15ft. terdapat glitch pada terrain.dimensi ruang retak seperti pecahan cermin dan menjadi [[Difficult Terrain]] + DC 15 DEX save, prone if fails
   - name: Spatial Jaunt (1 AP)
     desc: teleport 30 ft. sebagai bagian dari movement.
   - name: Pattern Move

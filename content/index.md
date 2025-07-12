@@ -5,7 +5,7 @@ tags:
   - index
 ---
 ## Campaign Scheduled
-[[Dragon Essence Dungeons - Welcome to World of Draconia. Playtesting version alpha 0.25.07.1]]
+[[Dragon Essence Dungeons. Playtesting version alpha 0.25.07.1]]
 ## Campaign History
 
 ## Game Rule
@@ -28,7 +28,7 @@ tags:
 ## Shop
 [[Player's Shop]]
 [[General Store]]
-[[Crafting center]]
+[[Crafting Center]]
 [[Magic Shop]]
 [[Alchemy Store]]
 [[Bookstore]]

@@ -10,3 +10,5 @@
 #5. Add 1 for every two bonus feats it has.  
   
 #6. Divide total by 3. This should be its rough CR
+
+12+1+3+2+1+2 = 21/3 = 7
