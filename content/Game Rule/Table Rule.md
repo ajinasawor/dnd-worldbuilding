@@ -5,14 +5,14 @@ tags:
   - rule
 ---
  # Game System
- - **References**: PHB'14, PHB '24, TCE, XGE, MPMM
- - **Game Type**: One-Shot Campaign (Potentially become Sandbox Rouge-Like)
+ - **References**: PHB '24, XGE, TCE
+ - **Game Type**: One-Shot Campaign
  - **Players**: 3-5 players
  - **Language**: Indonesia
  - **Media**: Semi-Digital (pencil & paper, smartphone, laptop, tablet)
  - **Duration**: 2-4 hours
- - **Theme**: Roleplaying, Puzzle, Battle, Randomly Generated Dungeon
- - **Genre**: Cosmic Fantasy, Isekai
+ - **Theme**: Role playing, Puzzle, Combat Heavy, Randomly Generated Dungeon.
+ - **Genre**: Cosmic Fantasy, Virtual Reality / Isekai
  - **Starting Level**: 3
 
 **DM Notes:**
@@ -27,7 +27,7 @@ Menggunakan mekanik homebrew [[Nimble Combat]]. Akan disediakan cheat sheet oleh
 
 # Character Preparation
 Hal-hal yang perlu dipersiapkan pemain saat pembuatan karakter, antara lain:
-1. Backstory karakter adalah sebagai alpha play tester game Dragon Essence Dungeons.
+1. Backstory karakter adalah sebagai play tester game Dragon Essence Dungeons versi pengembangan alpha.
 2. Ability Score : Standard Array, Roll dadu (4d6 throw the lowest, 3 set)
 3. Character Creation berupa Race, Class, Subclass , Background, Backstory bisa dikirim H-1 Sesi dimulai. Roll Ability dan HP bisa dilakukan saat Sesi.  
 4. Starting equipment sesuai dengan referensi rule book.

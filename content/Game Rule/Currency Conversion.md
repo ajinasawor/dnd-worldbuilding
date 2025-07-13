@@ -6,6 +6,10 @@ tags:
   - loot
 ---
 
+Di Draconia, terdapat material berharga yang dapat berfungsi sebagai mata uang, Dragon Shard (DS). Mata uang normal hanya dapat digunakan untuk membeli barang, namun DS mampu digunakan untuk upgrade Nexus, membeli magic item kualitas tinggi, dan banyak lagi. 
+
+Konversi mata uang normal dengan DS adalah sebagai berikut:
+
 1 Dragon Shards (DS) = 500 GP
 
 |Curency             |  CP    |  SP   | EP     | GP    | PP      | DS       |

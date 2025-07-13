@@ -32,4 +32,5 @@ tags:
 [[Magic Shop]]
 [[Alchemy Store]]
 [[Bookstore]]
+
 %%

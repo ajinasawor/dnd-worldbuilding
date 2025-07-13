@@ -13,12 +13,12 @@ Berikut sistem generasi dungeon roguelike berbasis poker yang dioptimalkan untuk
 
 ### 🎴 **Mapping Kartu → Dungeon**  
 #### **KARTU 1: SUIT - LINGKUNGAN & ARSITEKTUR**  
-| Suit       | Tema Dungeon      | Fitur Mekanis                     | Visual Khas                     |  
-|------------|-------------------|-----------------------------------|---------------------------------|  
-| ♥ **Hati** | Chaos Rift        | Platform tidak stabil, ledakan acak | Magma & logam cair mengambang    |  
-| ♦ **Wajik**| Order Nexus       | Puzzle energi, laser grid         | Kristal geometris sempurna       |  
-| ♠ **Keriting**| Void Abyss     | Gravitasi rendah, zona hisap      | Bintang mati & lubang hitam mini |  
-| ♣ **Sekop** | Temporal Archive  | Area percepatan/perlambatan waktu | Buku terbang & jam raksasa       |  
+| Suit           | Tema Dungeon     | Fitur Mekanis                       | Visual Khas                      |     |
+| -------------- | ---------------- | ----------------------------------- | -------------------------------- | --- |
+| ♥ **Hati**     | Chaos Rift       | Platform tidak stabil, ledakan acak | Magma & logam cair mengambang    |     |
+| ♦ **Wajik**    | Order Nexus      | Puzzle energi, laser grid           | Kristal geometris sempurna       |     |
+| ♠ **Keriting** | Void Abyss       | Gravitasi rendah, zona hisap        | Bintang mati & lubang hitam mini |     |
+| ♣ **Sekop**    | Temporal Archive | Area percepatan/perlambatan waktu   | Buku terbang & jam raksasa       |     |
 
 #### **KARTU 2: NILAI - KONTEN UTAMA**  
 | Nilai    | Kategori          | Contoh Konten                                  |  
