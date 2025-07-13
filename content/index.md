@@ -6,7 +6,7 @@ tags:
 ---
 ## Campaign Scheduled
 [[Dragon Essence Dungeons. Playtesting version alpha 0.25.07.1]]
-## Campaign History
+## Adventure Logs
 
 ## Game Rule
 [[Nimble Combat]]
@@ -15,16 +15,13 @@ tags:
 %%
 ## Lore
 [[Draggonova - Unova Creatii]]
-[[Player Character - Index|PC]]
-[[Non Player Character - Index|NPC]]
-[[Deity]]
-[[Region]]
 ## Player’s Guide
 [[Nimble Combat]]
 [[Arkhe]]
 [[Fragmented Dungeon]]
 [[Meta progression]]
-[[Index.DM]]
+[[Conditions & Diseases]]
+[[Currency Conversion]]
 ## Shop
 [[Player's Shop]]
 [[General Store]]

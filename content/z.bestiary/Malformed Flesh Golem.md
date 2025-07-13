@@ -2,9 +2,10 @@
 title: Malformed Flesh Golem
 draft: true
 tags:
-- homebrew
-- CR2
-- ref-DMLAIR
+  - homebrew
+  - CR2
+  - ref-DMLAIR
+  - Chaos-AL
 ---
 ```statblock
 layout: Basic 5e Layout
