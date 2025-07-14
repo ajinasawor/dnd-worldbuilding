@@ -17,7 +17,7 @@ Diambil dari core rule Nimble TTRPG dengan modifikasi.
 	Ketika player mendapatkan 6 [[Wound]], mereka mati ([[Death|teleport kembali ke Arkhe]])
 	Note: spell/item yang terlibat dalam mekanik Healing, Death Saving Throw & Revive akan mendapatkan [[Heal & Revive|penyesuaian efek]].
 ## Attack Roll Modification & Damage Bonus
-Semua serangan tidak memerlukan [[#Attack]], sehinga semua Spell, Feat, dan Trait yang memberikan efek pada attack roll akan dikonversi menjadi damage bonus.
+Semua serangan tidak memerlukan [[#Attack|Attack roll]], sehinga semua Spell, Feat, dan Trait yang memberikan efek pada attack roll akan dikonversi menjadi damage bonus.
 - Spell, Feat, dan Trait yang memberikan bonus pada Attack Roll, seperti spell Bless dan feat Archery, akan memberikan bonus damage pada primary dice roll (maksimal sebesar nilai tertinggi dice), dan dikalkukasi sebelum penentuan MISS/HIT/CRIT (dapat mengubah roll MIS menjadi HIT, atau menyebabkan roll HIT menjadi CRIT).
 - Spell, Feat, dan Trait yang memberikan efek reroll, akan memberikan reroll pada primary dice jika roll pertama MISS, atau bisa reroll semua dice untuk mendapatkan kesempatan total damage yang lebih besar (player yang melakukan reroll harus menggunakan hasil roll yang baru).
 - Spell, Feat, dan Trait yang memberikan ADV, atau menghilangkan DIS, bekerja seperti normal dengan mekanisme [[#Advantage/Disadvantage]].
@@ -74,7 +74,7 @@ Semua serangan tidak memerlukan [[#Attack]], sehinga semua Spell, Feat, dan Trai
 
 ## Heroic Actions
 ### Attack
-Damage [[#Attack Roll Modification & Damage Bonus|selalu hit]], kecuali pada roll damage, player roll 1, maka attack MISS dan attack tidak memberikan efek. (attack yang membutuhkan lebih dari satu dice, dice paling kiri disebut sebagai [[Primary dice]] yang digunakan untuk menentukan MISS/HIT/CRIT). Attack/Spell yang membutuhkan Ability/DC Saving Throw, bekerja seperti normal. 
+Damage [[#Attack Roll Modification & Damage Bonus|selalu hit]], kecuali pada roll damage player roll 1, maka attack MISS dan attack tidak memberikan efek. (attack yang membutuhkan lebih dari satu dice, dice paling kiri disebut sebagai [[Primary dice]] yang digunakan untuk menentukan MISS/HIT/CRIT). Attack/Spell yang membutuhkan Ability/DC Saving Throw, bekerja seperti normal. 
 #### Spellcasting
 Casting Leveled Spell membutuhkan 2 AP. Casting Cantrip membutuhkan 1 AP. [[#Rushed Attacks]] rule tetap berlaku.
 #### Exploding Critical Hits
