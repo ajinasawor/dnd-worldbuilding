@@ -1,6 +1,6 @@
 ---
 title: Session Notes
-draft: true
+draft: false
 tags:
   - notes
   - session
