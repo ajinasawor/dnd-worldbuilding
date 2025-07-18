@@ -6,6 +6,7 @@ tags:
   - CR2
   - ref-DMLAIR
   - Chaos-AL
+  - 5e
 ---
 ```statblock
 layout: Basic 5e Layout

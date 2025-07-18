@@ -5,6 +5,7 @@ tags:
   - homebrew
   - CR4
   - Space-AL
+  - nimble
 ---
 ```statblock
 layout: Basic 5e Layout
@@ -27,9 +28,9 @@ senses: Darkvision 120 ft
 cr: 
 traits:
   - name: Fractured Reality
-    desc: dalam radius area 15ft. terdapat glitch pada terrain.dimensi ruang retak seperti pecahan cermin dan menjadi [[Difficult Terrain]] + DC 15 DEX save, prone if fails
+    desc: Setelah creature berpindah tempat, dalam radius area 10ft. terdapat glitch pada terrain. Dimensi ruang retak seperti pecahan cermin dan menjadi [[Difficult Terrain]] + DC 15 DEX save, prone jika gagal. Difficult terrain bertahan selama 1 ronde.
   - name: Spatial Jaunt (1 AP)
-    desc: teleport 30 ft. sebagai bagian dari movement.
+    desc: teleport 30 ft. sebagai pengganti movement.
   - name: Pattern Move
     desc: Move-Bite-Move-Web of Fragement-Move-FoldSpace-repeat. on HP 30% or less Bite-Bite-Bite(move if no available target)
   - name: Loot

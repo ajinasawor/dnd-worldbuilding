@@ -16,7 +16,6 @@ tags:
 ## Lore
 [[Draggonova - Unova Creatii]]
 ## Player’s Guide
-[[Nimble Combat]]
 [[Arkhe]]
 [[Fragmented Dungeon]]
 [[Meta progression]]
