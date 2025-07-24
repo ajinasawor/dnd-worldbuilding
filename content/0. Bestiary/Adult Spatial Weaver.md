@@ -26,7 +26,7 @@ damage_immunities: Force
 condition_immunities: Charmed
 senses: Darkvision 120 ft
 cr: 
-traits:
+traits: 
   - name: Fractured Reality
     desc: Setelah creature berpindah tempat, dalam radius area 10ft. terdapat glitch pada terrain. Dimensi ruang retak seperti pecahan cermin dan menjadi [[Difficult Terrain]] + DC 15 DEX save, prone jika gagal. Difficult terrain bertahan selama 1 ronde.
   - name: Spatial Jaunt (1 AP)

@@ -79,13 +79,13 @@ Jika mendapatkan Joker, maka PC mendapatkan full heal HP, dan mendapatkan mengem
 # TENTUKAN ROOM ANOMALI
 Dari kombinasi 3 kartu di Dungeon Room dan Boss Room, jika membentuk kombinasi tertentu, akan memberikan room anomali.
 
-| Kombinasi   | Contoh   | Anomali         | Efek                                                                                                                                                                                                                                             |
-| ----------- | -------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Pair        | ♠6,♣6,♣4 | Directed Attack | Player hanya bisa menyerang lurus. tidak bisa menyerang diago                                                                                                                                                                                    |
-| 3 of a Kind | ♠5♥5♦5   | Unstable Floor  | Setiap player bergerak, harus melakukan DEX save DC 10. Jika gagal, maka akan menjadi difficulty terrain. Jika gagal 2 kali, makan player harus melakukan Acrobatic Check, DC 10, jika gagal maka terkena [[Conditions & Diseases#Prone\|prone]] |
-| Flush       | ♥6♥7♥J   | Low Gravity     | PC mendapatkan free action untuk bergerak vertikal, dan bisa berjalan di langit langit. PC bisa bergerak melayang namun half speed.                                                                                                              |
-| Straight    | ♥8♥9♦10  | Time Dilation   | Waktu berjalan lambat bagi player, player hanya bisa melakukan reaction setiap 2 turn, Rushed attack memiliki tambahan 1 DIS, Speed berkurang 10ft.                                                                                              |
-| Royal Flush | ♦9♦10♦J  | Double effect   | Kombinasi 2 dari 4 anomali dalam 1 ruang, namun tiap efek tidak sekuat anomali normal.                                                                                                                                                           |
-^anomeli-effect-table
+| Kombinasi   | Contoh   | Anomali         | Efek                                                                                                                                                |
+| ----------- | -------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pair        | ♠6,♣6,♣4 | Directed Attack | Player hanya bisa menyerang lurus. tidak bisa menyerang diagonal                                                                                    |
+| 3 of a Kind | ♠5♥5♦5   | Unstable Floor  | Setiap player bergerak, harus melakukan DEX save DC 10. Jika gagal maka terkena [[Conditions & Diseases#Prone\|prone]]                              |
+| Flush       | ♥6♥7♥J   | Low Gravity     | PC mendapatkan free action untuk bergerak vertikal, dan bisa berjalan di langit langit. PC bisa bergerak melayang namun half speed.                 |
+| Straight    | ♥8♥9♦10  | Time Dilation   | Waktu berjalan lambat bagi player, player hanya bisa melakukan reaction setiap 2 turn, Rushed attack memiliki tambahan 1 DIS, Speed berkurang 10ft. |
+| Royal Flush | ♦9♦10♦J  | Double effect   | Kombinasi 2 dari 4 anomali dalam 1 ruang, namun tiap efek tidak sekuat anomali normal.                                                              |
+^anomali-effect-table
 
  
