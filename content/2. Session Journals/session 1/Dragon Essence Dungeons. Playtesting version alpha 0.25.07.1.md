@@ -23,5 +23,3 @@ Tugas Anda:
 **Bonus Reward**: 1 set VR headset [[Void Render Helmet|Void Render Helmet v.2 (DRG-0V4)]] collector edition [[Dragon Essence Dungeons||D.E.D]] bagi tim yang menemukan Password Debugger Card tercepat!
 
 Ayo tunggu apalagi? Buruan daftar sebelum kuota penuh!
-
-![[Table Rule]]

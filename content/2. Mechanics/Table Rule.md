@@ -11,12 +11,14 @@ tags:
  - **Language**: Indonesia
  - **Media**: Semi-Digital (pencil & paper, smartphone, laptop, tablet)
  - **Duration**: 2-4 hours
- - **Theme**: Role playing, Puzzle, Combat Heavy, Randomly Generated Dungeon.
- - **Genre**: Cosmic Fantasy, Virtual Reality / Isekai
+ - **Theme**: Exploration, Puzzle, Combat
+ - **Genre**: Augmented Reality, Mistery, Problem Solving
  - **Starting Level**: 3
 
+%%
 **DM Notes:**
 Sesi ini merupakan sesi playtesting mekanik homebrew yang menggantikan core mekanik dari D&D 5e, yaitu pada mekanik combat ([[Nimble Combat]]), mekanik homebrew Dungeon Generator dan merupakan uji coba perdana sebagai Dungeon Master. Jadi mohon saling menghargai dan kerja sama supaya permainan tetap menyenangkan. Feedback dari player setelah sesi selesai sangat membantu!
+%%
 
 # Etika permainan
 1. Situasi awal karakter pemain akan ditentukan oleh DM.

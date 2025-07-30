@@ -1,6 +1,5 @@
 ---
-title: Guild Center
+title: Elira Rosewould
 draft: true
 tags:
 ---
-
