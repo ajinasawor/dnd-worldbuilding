@@ -5,7 +5,7 @@ tags:
 ---
 ![[Draggonova - Unova Creatii]]
 
-![[Horologium]]
+Gerald Signovere, seorang penjaga dari kota [[Horologium]] mengirimkan permintaan tolong  
 
 
 Ding... Ding... Ding... 
