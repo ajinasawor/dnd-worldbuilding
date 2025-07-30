@@ -5,12 +5,8 @@ tags:
 ---
 ![[Draggonova - Unova Creatii]]
 
-Gerald Signovere, seorang penjaga dari kota [[Horologium]] mengirimkan permintaan tolong  
+![[Horologium]]
 
+Gerald Signovere, penjaga terakhir dari kota [[Horologium]], mengirimkan permintaan untuk membebaskan kotanya dari kutukan setiap tahun, namun sudah 30 tahun berlalu sejak kelompok terakhir mencoba menghilangkan kutukan didalam kota.
 
-Ding... Ding... Ding... 
-Dentang lonceng dari menara jam di tengah kota berbunyi mengawali hari di kota Horologium. Sama seperti kemarin, semua penduduk sibuk menjalani rutinitas mereka sehari-hari.
-
-Sama seperti kemarin.
-
-" Selama 30 tahun terakhir, setiap hari mereka terjebak di hari yang sama, melakukan kegiatan yang sama. Setiap hari. Tolong mereka. Kumohon!" - [[Gerald Signovere]], Penjaga terakhir kota Horologium.
+Sebagai [[Glitch Born]], kalian mendapatkan surat dari Gerald yang meminta untuk datang ke kota Horologium untuk menghentikan kutukan di kota tersebut. 
