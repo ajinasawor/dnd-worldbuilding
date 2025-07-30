@@ -1,5 +1,5 @@
 ---
-title: Dragon Essence Dungeons - Welcome to World of Draconia
+title: Draconia Continent Arc.
 draft: false
 tags:
   - index
