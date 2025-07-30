@@ -7,7 +7,7 @@ tags:
  # Game System
  - **References**: PHB '24, XGE, TCE
  - **Game Type**: One-Shot Campaign
- - **Players**: 3-5 players
+ - **Players**: 3-6 players
  - **Language**: Indonesia
  - **Media**: Semi-Digital (pencil & paper, smartphone, laptop, tablet)
  - **Duration**: 2-4 hours
