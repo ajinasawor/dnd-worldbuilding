@@ -26,10 +26,3 @@ Sesi ini merupakan sesi playtesting mekanik homebrew yang menggantikan core meka
 
 # Combat Rule
 Menggunakan mekanik homebrew [[Nimble Combat]]. Akan disediakan cheat sheet oleh DM saat sesi berlangsung.
-
-# Character Preparation
-Hal-hal yang perlu dipersiapkan pemain saat pembuatan karakter, antara lain:
-1. Backstory karakter adalah sebagai play tester game Dragon Essence Dungeons versi pengembangan alpha.
-2. Ability Score : Standard Array, Roll dadu (4d6 throw the lowest, 3 set)
-3. Character Creation berupa Race, Class, Subclass , Background, Backstory bisa dikirim H-1 Sesi dimulai. Roll Ability dan HP bisa dilakukan saat Sesi.  
-4. Starting equipment sesuai dengan referensi rule book.

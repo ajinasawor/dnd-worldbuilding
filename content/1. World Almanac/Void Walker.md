@@ -3,4 +3,4 @@ title: Void Walker
 draft: false
 tags:
 ---
-Orang yang mengaku berasal dari dunia lain, dan menyebut bahwa dunia Draggonova adalah dunia "game". Mereka lebih kuat dari penduduk normal Draggonova, dan memiliki kemampuan mirip seperti para [[Glitch Born]], yaitu menggunakan [[Cosmic Interface]].
+Orang yang mengaku berasal dari dunia lain, dan menyebut bahwa dunia Draggonova adalah dunia "game". Mereka lebih kuat dari penduduk normal Draggonova, dan memiliki kemampuan seperti para [[Glitch Born]] untuk menggunakan [[Cosmic Interface]].

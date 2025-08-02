@@ -12,6 +12,7 @@ tags:
 ## Game Rule
 [[Nimble Combat]]
 [[Table Rule]]
+[[Character Creation]]
 
 %%
 ## Lore

@@ -1,5 +1,5 @@
 ---
-title: Session Notes
+title: Dragon Essence DUngeons - Notes
 draft: false
 tags:
   - notes

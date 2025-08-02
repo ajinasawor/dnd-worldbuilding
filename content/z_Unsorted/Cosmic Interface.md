@@ -1,9 +1,11 @@
 ---
 title: Cosmic Interface
-draft: true
+draft: false
 tags:
 ---
-**Cosmic Interface** adalah Antarmuka yang hanya dapat diakses oleh para [[Void Walker]] dan [[Glitch Born]]. 
+**Cosmic Interface** adalah Antarmuka yang hanya dapat diakses oleh para [[Void Walker]] (Virtual Reality) dan [[Glitch Born]] (Augmented Reality). 
+
+%%
 
 | Menu                      | Keterangan                                                                                                                                                |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -13,3 +15,5 @@ tags:
 | Items                     | Berisikan daftar item yang berada didalam inventory. Player harus equip storage item seperti backpack untuk mengakses menu ini.                           |
 | Equipments                | Berisikan perlengkapan dan aksesoris yang dipakai                                                                                                         |
 | Info                      | Berisikan credit dan versi game. Untuk Glitch Born, menu ini menunjukkan waktu dimana pertama kali kemampuan Glitch Born aktif dan nama orang tua mereka. |
+
+%%
