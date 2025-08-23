@@ -9,3 +9,4 @@ Seorang penjaga dari kota Horologium. Dia adalah orang terakhir yang masih hidup
 
 ---
 %%
+Suami dari Elera Signovere dan ayah dari Luca Signovere.

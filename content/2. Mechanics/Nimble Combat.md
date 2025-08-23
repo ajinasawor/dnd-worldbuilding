@@ -10,12 +10,11 @@ Saat combat didalam [[Fragmented Dungeon|Dungeon]], player akan menggunakan meka
 # Rule dasar
 Diambil dari core rule Nimble TTRPG dengan modifikasi.
 ## Hit Points & Dying
-- Ketika Hit points (HP) mencapai 0, karakter mendapatkan 1 [[Wound]], dan mendapat status [[Dying]]. Player  yang memiliki [[Wound]] akan medapatkan disadvantage saat melakukan [[#Heroic Actions]]. Player dengan status [[Dying]] tidak bisa berpindah tempat tanpa bantuan player lain, dan hanya dapat melakukan melakukan 1 aksi, yaitu:
-	- Attack/Casting Spell : mengakibatkan 1 [[Wound]], kecuali berhasil melakukan DC 10 STR save
-	- Terkena serangan akan mendapatkan 2 [[Wound]], CRIT mengakibatkan 3 [[Wound]].
-	- [[Dying]] akan menghilangkan aggro musuh, kecuali saat melakukan Attack/Casting Spell
-	Ketika player mendapatkan 6 [[Wound]], mereka mati ([[Death|teleport kembali ke Arkhe]])
-	Note: spell/item yang terlibat dalam mekanik Healing, Death Saving Throw & Revive akan mendapatkan [[Heal & Revive|penyesuaian efek]].
+Ketika Hit Point Mencapai 0 (nol), Player mendapatkan 1 level Wound dan mendapatkan status Dying. Ketika Level Wound mencapai maksimal, Player mendapatkan status Fragmented.
+![[Conditions & Diseases#Dying]]
+![[Conditions & Diseases#Wounded]]
+![[Conditions & Diseases#Fragmented]]
+![[Conditions & Diseases#Shattered]]
 ## Attack Roll Modification & Damage Bonus
 Semua serangan tidak memerlukan [[#Attack|Attack roll]], sehinga semua Spell, Feat, dan Trait yang memberikan efek pada attack roll akan dikonversi menjadi damage bonus.
 - Spell, Feat, dan Trait yang memberikan bonus pada Attack Roll, seperti spell Bless dan feat Archery, akan memberikan bonus damage pada primary dice roll (maksimal sebesar nilai tertinggi dice), dan dikalkukasi sebelum penentuan MISS/HIT/CRIT (dapat mengubah roll MIS menjadi HIT, atau menyebabkan roll HIT menjadi CRIT).
@@ -38,9 +37,9 @@ Semua serangan tidak memerlukan [[#Attack|Attack roll]], sehinga semua Spell, Fe
 
 ## Resting
 ### Field Rest 
-#### Catch Breath 
-- Membutuhkan waktu minimal 10 menit / 3 ronde, jika dilakukan saat combat, player harus diam, tidak bergerak, dan tidak terlihat musuh.
-- Efek : Memulihkan HP dengan memakai 1 [[Hit Dice]]. Menghilangkan status [[Dying]], dan mengurangi 1 [[Wound]].
+#### Catch a Breath 
+- Membutuhkan waktu minimal 10 menit / 3 ronde. Jika dilakukan saat combat, player harus diam, tidak bergerak, dan tidak terlihat musuh.
+- Efek : Memulihkan sejumlah Hit Points dengan memakai 1 [[Hit Dice]] dan menghilangkan status [[Dying]]
 - Gagal memberikan efek jika terkena serangan, berpindah tempat, atau terlihat musuh.
 
 > [!success] Rumus

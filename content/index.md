@@ -5,15 +5,19 @@ tags:
   - index
 ---
 ## Campaign Scheduled
-[[Horologium - The Rewinding City. Sector 1A]]
+[[Horologium - The Rewinding City. Sector 1 (Part A)]]
 
+---
 ## Adventure Logs
 [[Dragon Essence Dungeons. Playtesting version alpha 0.25.07.1]]
+
+---
 ## Game Rule
 [[Nimble Combat]]
 [[Table Rule]]
 [[Character Creation]]
 
+---
 %%
 ## Lore
 [[Draggonova - Unova Creatii]]

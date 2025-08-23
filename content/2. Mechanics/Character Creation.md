@@ -1,6 +1,6 @@
 Player dapat memilih antara 2 origin, yaitu [[Void Walker]] atau [[Glitch Born]] sebagai bagian dari backstory mereka. 
 
-> [!QUOTE]+
+> [!quote]+
 > ![[Void Walker]]
 
  >[!quote]+

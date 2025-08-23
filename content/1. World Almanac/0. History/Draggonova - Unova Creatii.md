@@ -2,7 +2,7 @@
 title: Draggonova - Unova Creatii
 draft: false
 tags:
-  - lore
+  - folklore
 ---
 Sebelum alam semesta tercipta, empat [[Primordial Gods|Dewa Primordial]] – [[Chaos Dragon]], [[Order Dragon]], [[Time Dragon]] dan [[Space Dragon]] – hidup berdampingan dengan tenang.
 

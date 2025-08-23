@@ -2,6 +2,38 @@
 title: Conditions & Diseases
 draft: false
 ---
+# Dying
+While you have Dying status, you experience the following effects.
+
+**Speed 0**. Your speed is 0 and can't increase.
+**Limited Action**. On your turn you can only have 1 action.
+**STR Check on Action**. You need to successfully roll STR save DC 10 to do certain action, otherwise you gain 2 level of Wound. You gain 1 level of Wound on successful roll
+**No Concentration**. While Dying, you cannot do action that require concentration.
+**Undisturbed Rest**. You can skip 3 round undisturbed to catch a breath, remove the dying status and use 1 hit dice roll, if you have any left you regain some Hit Point, or gain 1 Hit Point.
+**Losing Aggro**. On the turn you gain Dying condition until you use an action, enemy will lose aggro to attack you. You still getting hit on an Area of Effect attacks, if you do, you gain 2 level of Wound, 4 if it CRIT.
+**Removing Dying Status**. Spare the Dying spell and other Healing spell will stabilized you and remove the dying condition instantly.
+
+# Wounded
+While you have Wounded condition, you experience the following effects.
+
+**Wound Level**. This Condition is cumulative. You die when reaching 6 level of Wound.
+**D20 test affected**. When you make a D20 Test (STR, DEX, CONS) the roll is reduced by 2 times your Wound level.
+**Damage roll affected**. Damage roll cannot CRIT, dice roll 3 or below will be a MISS.
+**Removing Wounded level**. Healing spell below level 3, taking short rest and doing Medicine Check will remove 1 level of Wound. Long rest will remove 2 level of Wound. Healing spell level 3 and above will remove 3 level of Wound.
+
+# Fragmented
+While you have Fragmented status, you experience the following effects.
+
+**Fragmented Level** This Status is cumulative. You gain 1 level of fragmented everytime you die inside of dungeon. You gain Shattered status when reaching 6 level of Fragmented.
+**Ghost**. When you die, you can tethered to one living party of your choosing, and roam inside the dungeon as a ghost with radius of 240 ft, do some D20 test (Investigation, Arcana, Insight, Perception), but you cannot communicate with them, except living person using [[Speak with Dead]] spell, or with magical item.
+**D20 test affected**. You gain advantage on D20 test that available to you became a ghost.
+**Safe zone teleportation**. You can choose to be immediately get teleported to the nearest safe zone or [[Arkhe]] anytime and be revived.
+**Removing Fragmented Level**. You can remove one level of fragmentation by doing meditation for 30 nights and paying 2 Dragon Shard via [[Cosmic Interface]] menu, or use Revivy spell. Using Revivy spell while being a ghost will revive you immediately, and reduce Fregmented stack by 1.
+
+# Shattered
+While you have Shattered condition, you experience the following effects.
+
+**Permanent Death**. You permanently dead, no spells can revive you.
 
 # Blinded
 While you have the Blinded condition, you experience the following effects. 

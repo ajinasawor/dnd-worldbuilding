@@ -1,5 +1,5 @@
 ---
-title: Horologium - The Rewinding City
+title: Horologium - The Rewinding City. Sector 1 (Part A)
 draft: false
 tags:
 ---
