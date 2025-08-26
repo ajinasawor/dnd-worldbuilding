@@ -5,11 +5,12 @@ tags:
   - index
 ---
 ## Campaign Scheduled
-[[Horologium - The Rewinding City. Sector 1 (Part A)]]
+![[Horologium - The Rewinding City. Sector 1 (Part B)]]
 
 ---
 ## Adventure Logs
 [[Dragon Essence Dungeons. Playtesting version alpha 0.25.07.1]]
+[[Horologium - The Rewinding City. Sector 1 (Part A)]]
 
 ---
 ## Game Rule
