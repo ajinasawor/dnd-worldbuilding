@@ -1,5 +1,5 @@
 ---
-title: Draconia Continent Arc.
+title: Dragon Essence Dungeon - Draconia Continent
 draft: false
 tags:
   - index
