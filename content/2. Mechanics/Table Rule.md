@@ -6,11 +6,11 @@ tags:
 ---
  # Game System
  - **References**: PHB '24, XGE, TCE
- - **Game Type**: One-Shot Campaign
- - **Players**: 3-6 players
+ - **Game Type**: Short Campaign
+ - **Players**: 5-6 players
  - **Language**: Indonesia
  - **Media**: Semi-Digital (pencil & paper, smartphone, laptop, tablet)
- - **Duration**: 2-4 hours
+ - **Duration**: 4-6 hours
  - **Theme**: Exploration, Puzzle, Combat
  - **Genre**: Augmented Reality, Mistery, Problem Solving
  - **Starting Level**: 3

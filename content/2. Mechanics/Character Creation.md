@@ -12,6 +12,7 @@ Character Creation details:
 3. **Equipment:** Starting Equipment
 4. **Abililty Score:** Roll dadu 3 set 4d6 buang angka paling kecil. Roll ditempat.
 5. **HP:** Lv 1 :Full hit dice + CONS. Lv 2+: Roll hit dice + CONS. Roll ditempat.
+6. Backstory character dikirimkan maksimal H-1 sebelum sesi dimulai.
 
 Useful link:
 https://5e.tools/
