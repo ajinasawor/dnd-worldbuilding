@@ -5,16 +5,16 @@ tags:
   - index
 ---
 ## Campaign Scheduled
-![[Horologium - The Rewinding City. Sector 1 (Part B)]]
+![[Dragon Essence Dungeons. Game Start - Prolog]]
 
 ---
-## Adventure Logs
+## Adventure Logs (Past Session)
 [[Dragon Essence Dungeons. Playtesting version alpha 0.25.07.1]]
 [[Horologium - The Rewinding City. Sector 1 (Part A)]]
 
 ---
 ## Game Rule
-[[Nimble Combat]]
+%%[[Nimble Combat]]%%
 [[Table Rule]]
 [[Character Creation]]
 

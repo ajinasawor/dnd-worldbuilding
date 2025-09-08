@@ -2,8 +2,7 @@
 title: Dragon Essence Dungeons. Playtesting version alpha 0.25.07.1
 draft: false
 tags:
-  - one-shot
-  - session
+  - announcement
 session date:
 ---
 ![[Draggonova - Unova Creatii]]

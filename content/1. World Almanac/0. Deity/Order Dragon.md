@@ -1,9 +1,11 @@
 ---
 title: Order Dragon
-draft: true
+draft: false
 tags:
   - deity
   - primordial-god
   - Order-AL
+  - folklore
 ---
-Ordreacon
+**Order Dragon** adalah salah satu [[Primordial Gods]], yang mengatur tentang hukum alam dan keteraturan.
+%%Ordreacon

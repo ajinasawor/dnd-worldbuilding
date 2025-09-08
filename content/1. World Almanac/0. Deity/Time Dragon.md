@@ -1,9 +1,12 @@
 ---
 title: Time Dragon
-draft: true
+draft: false
 tags:
   - deity
   - primordial-god
   - Time-AL
+  - folklore
 ---
-Tempus Rex
+**Time Dragon** adalah salah satu [[Primordial Gods]] yang mengatur tentang Aliran waktu, menjaga harmoni ruang-waktu.
+
+%%Tempus Rex

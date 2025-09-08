@@ -5,24 +5,13 @@ tags:
   - rule
 ---
  # Game System
- - **References**: PHB '24, XGE, TCE
- - **Game Type**: Short Campaign
- - **Players**: 5-6 players
- - **Language**: Indonesia
+ - **Ruling System**: D&D 5e 2024
+ - **Source Book**: PHB'24, XGE, TCE, DMG'24, MM'25, MM'14, MPMM(limited)
+ - **Campaign**: West Marches
+ - **Players**: up to 6 players
+ - **Language**: Primarily Indonesia
  - **Media**: Semi-Digital (pencil & paper, smartphone, laptop, tablet)
  - **Duration**: 4-6 hours
- - **Theme**: Exploration, Puzzle, Combat
- - **Genre**: Augmented Reality, Mistery, Problem Solving
+ - **Game Expectation**: Roleplay (50%), Puzzle (25%), Combat (25%)
  - **Starting Level**: 3
 
-%%
-**DM Notes:**
-Sesi ini merupakan sesi playtesting mekanik homebrew yang menggantikan core mekanik dari D&D 5e, yaitu pada mekanik combat ([[Nimble Combat]]), mekanik homebrew Dungeon Generator dan merupakan uji coba perdana sebagai Dungeon Master. Jadi mohon saling menghargai dan kerja sama supaya permainan tetap menyenangkan. Feedback dari player setelah sesi selesai sangat membantu!
-%%
-
-# Etika permainan
-1. Situasi awal karakter pemain akan ditentukan oleh DM.
-2. Player yang tidak bisa hadir, minimal H-1 memberitahu DM terlebih dahulu
-
-# Combat Rule
-Menggunakan mekanik homebrew [[Nimble Combat]]. Akan disediakan cheat sheet oleh DM saat sesi berlangsung.

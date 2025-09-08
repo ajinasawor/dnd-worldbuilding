@@ -1,9 +1,11 @@
 ---
 title: Space Dragon
-draft: true
+draft: false
 tags:
   - deity
   - primordial-god
   - Space-AL
+  - folklore
 ---
-Spatium Rex
+**Space Dragon** adalah salah satu [[Primordial Gods]] yang mengatur tentang hamparan ekspansi ruang alam semesta, menjaga harmoni ruang-waktu.
+%%Spatium Rex

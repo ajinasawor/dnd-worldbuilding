@@ -1,8 +1,9 @@
 ---
 title: C.L.A.R.A
-draft: true
+draft: false
 tags:
   - npc
   - void-walk_entertainment
   - -REDACTED-
 ---
+-REDACTED-

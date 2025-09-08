@@ -30,7 +30,7 @@ traits:
     desc: Whenever the golem starts its turn with 30 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.
   - name: Aversion of Fire
     desc: If the golem takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
-  - name: Lightnig Absorption
+  - name: Lightning Absorption
     desc: Whenever the golem is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.
   - name: Malformed Monstrosity
     desc: When the golem takes 15 or more damage in a single attack, one of its arms is destroyed and it can no longer use its multiattack. If it is hit by a second attack that deals 15 or more damage, it loses its second arm and can only use its bite attack.
