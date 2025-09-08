@@ -5,13 +5,15 @@ tags:
 ---
 
 # Character Creation 
-Player dapat memilih antara 2 origin, yaitu [[Void Walker]] atau [[Glitch Born]] sebagai bagian dari backstory mereka. 
+%%Player dapat memilih antara 2 origin, yaitu [[Void Walker]] atau [[Glitch Born]] sebagai bagian dari backstory mereka. 
 
 > [!quote]+
 > ![[Void Walker]]
 
  >[!quote]+
 ![[Glitch Born]]
+
+%%
 
 Character Creation details:
 1. **Reference:** PHB '24, TCE, XGE
@@ -23,5 +25,7 @@ Character Creation details:
 
 Useful link:
 https://5e.tools/
+
 http://dnd5e.wikidot.com/
+
 https://www.aidedd.org/en/
