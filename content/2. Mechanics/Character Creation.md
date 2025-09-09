@@ -5,7 +5,7 @@ tags:
 ---
 
 # Character Creation 
-%%Player dapat memilih antara 2 origin, yaitu [[Void Walker]] atau [[Glitch Born]] sebagai bagian dari backstory mereka. 
+%%Player dapat memilih antara 2 origin, yait[](Void%20Walker.md)]] ata[](Glitch%20Born.md)]] sebagai bagian dari backstory mereka. 
 
 > [!quote]+
 > ![[Void Walker]]

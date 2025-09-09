@@ -4,8 +4,7 @@ draft: false
 tags:
   - deity
   - primordial-god
-  - Order-AL
-  - folklore
+  - order-AL
 ---
 **Order Dragon** adalah salah satu [[Primordial Gods]], yang mengatur tentang hukum alam dan keteraturan.
 %%Ordreacon

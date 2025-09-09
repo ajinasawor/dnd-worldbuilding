@@ -2,6 +2,7 @@
 title: Cosmic Interface
 draft: false
 tags:
+- limited-knowledge
 ---
 **Cosmic Interface** adalah Antarmuka yang hanya dapat diakses oleh para [[Void Walker]] (Virtual Reality) dan [[Glitch Born]] (Augmented Reality). 
 

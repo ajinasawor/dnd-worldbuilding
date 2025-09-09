@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - draft == false
+  - type: cards
+    name: View
+    cardSize: 200

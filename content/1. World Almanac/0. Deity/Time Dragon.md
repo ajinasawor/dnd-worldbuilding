@@ -4,8 +4,7 @@ draft: false
 tags:
   - deity
   - primordial-god
-  - Time-AL
-  - folklore
+  - time-AL
 ---
 **Time Dragon** adalah salah satu [[Primordial Gods]] yang mengatur tentang Aliran waktu, menjaga harmoni ruang-waktu.
 

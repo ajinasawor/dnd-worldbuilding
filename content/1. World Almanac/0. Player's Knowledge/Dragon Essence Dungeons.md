@@ -2,6 +2,7 @@
 title: Dragon Essence Dungeons
 draft: false
 tags:
+- players-knwoledge
 ---
 Sebuah game Virtual Reality (VR) full dive pertama di dunia yang dikembangkan oleh [[Void-walk Entertainment]]. Dapat dimainkan dengan menggunakan VR device [[Void Render Helmet]]. Status dari game Dragon Essence Dungeons saat ini adalah *Abandoned*, akibat dari skandal dan korupsi yang menyebabkan [[Void-walk Entertainment]] bangkrut.
 

@@ -2,7 +2,7 @@
 title: Essence's host
 draft: false
 tags:
-  - knowledge
+  - limited-knowledge
 ---
 Essense's host adalah benda, wilayah, dungeon, ataupun makhluk hidup yang memiliiki sejumlah energi dari [[Primordial God's Essence]]. 
 ada 4 varian dari Essence's host, yaitu:

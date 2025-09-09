@@ -6,7 +6,7 @@ tags:
 ---
  # Game System
  - **Ruling System**: D&D 5e 2024
- - **Source Book**: PHB'24, XGE, TCE, DMG'24, MM'25, MM'14, MPMM(limited)
+ - **Source Book**: PHB'24, XGE, TCE, DMG'24, MM'25, MM'14, MPMM
  - **Campaign**: West Marches
  - **Players**: up to 6 players
  - **Language**: Primarily Indonesia
