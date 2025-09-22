@@ -2,7 +2,8 @@
 title: Elara
 draft: true
 tags:
-- npc
+  - npc
+  - horologium
 ---
 Seorang pengerajin jam profesional dan Ibu dari Luca. Bekerja di [[Chronos Clock Workshop]] cabang sektor 1. 
 

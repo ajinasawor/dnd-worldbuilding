@@ -1,6 +1,6 @@
 ---
 title: GM Typhoon
-draft: true
+draft: false
 tags:
   - npc
   - game_master

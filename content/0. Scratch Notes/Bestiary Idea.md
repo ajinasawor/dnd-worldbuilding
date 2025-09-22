@@ -131,7 +131,8 @@ Berikut kumpulan lengkap monster homebrew untuk campaign Draggonova, dilengkapi 
 - **Data Corruption:** Hit bite menyebabkan target kehilangan 1 slot spell/skill use (pemain pilih).  
 **Actions (3 AP):**  
 - **Bite (1 AP):** +5 hit, 1d6 + 3 piercing + efek Data Corruption.  
-- **Glitch Dash (1 AP):** Dash + tambah 10 ft. speed (ronde ini).  
+- **Glitch Dash (1 AP):** Dash + tambah 10 ft. speed (ronde ini).
+- Howl (WIS save) DC roll D20, fail frightened, and aggro.
 **Loot:**  
 - 1 **Corrupted Data Shard** (craft scroll "glitch spell")  
 

@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("npc")
+        - '!file.inFolder("z_Templates")'
+    order:
+      - file.name
+      - tags
+    imageAspectRatio: 0.85

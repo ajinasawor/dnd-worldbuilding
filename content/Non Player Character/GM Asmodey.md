@@ -1,6 +1,6 @@
 ---
 title: GM Asmodey
-draft: true
+draft: false
 tags:
   - npc
   - game_master

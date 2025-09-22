@@ -5,13 +5,6 @@ tags:
   - announcement
 ---
 
-![[Draggonova - Unova Creatii]]
-
----
-
-![[Dragon Essence Dungeons]]
-
----
 Setelah [[GM Typhoon]], CEO [[Void-walk Entertainment]] hilang secara misterius, pengembangan game VR [[Dragon Essence Dungeons]] terhambat dan popularitasnya menurun. Tidak lama kemudian, perusahaan Void-walk Entertainment bangkrut akibat banyak skandal dan korupsi yang terungkap dan pengembangan game Dragon Essence Dungeons dihentikan dan batal rilis. Teknologi VR [[Void Render Helmet]] diambil alih oleh perusahaan baru, [[Enigma Enterprise]] dengan nama [[Enigmatic VR]].
 
 
@@ -29,3 +22,5 @@ Kalian secara tidak sengaja mendapatkan tautan aseli dari internet dan berhasil 
 
 ---
 ![[Character Creation]]
+
+[[Draggonova - Unova Creatii]]

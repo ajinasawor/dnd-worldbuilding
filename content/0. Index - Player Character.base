@@ -1,0 +1,7 @@
+filters:
+  and:
+    - file.tags.contains("player-character")
+    - '!file.inFolder("z_Templates")'
+views:
+  - type: cards
+    name: Table
