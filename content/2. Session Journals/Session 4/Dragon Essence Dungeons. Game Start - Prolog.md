@@ -23,4 +23,4 @@ Kalian secara tidak sengaja mendapatkan tautan aseli dari internet dan berhasil 
 ---
 ![[Character Creation]]
 
-[[Draggonova - Unova Creatii]]
+![[Draggonova - Unova Creatii]]
