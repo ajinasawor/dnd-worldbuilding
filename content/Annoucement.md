@@ -1,11 +1,11 @@
 ✅ *OPEN SESSION FOR UP TO 6 PLAYER*
 
-🐲 *DRAGON ESSENCE DUNGEONS - GAME START. PROLOG | PROLOG WEST MARCHES (2nd Batch)| DM : Reno*
+🐲 *DRAGON ESSENCE DUNGEONS - GAME START. PROLOG | PROLOG WEST MARCHES (4th Batch)| DM : Reno*
 
 *WEST MARCHES*
 *DM* : Reno
 - *Game System* : D&D 5e 2024
-- ⁠*Player* : up to 6 Person
+- ⁠*Player* : 7 
 - *Allowed Material* : PHB 2024, TCE, dan XGE, MPMM (with DM discretion)
 
 *SYNOPSIS*
@@ -20,15 +20,18 @@ https://ajinasawor.github.io/dnd-worldbuilding/
 
 
 *SESSION INFORMATION:*
-📅 Jumat, 26 September 2025
-⏰ 16.00 - 22.00
-📍 TBA
+📅 Minggu, 5 Oktober 2025
+⏰ 10.00-selesai
+📍  Private Office 7 Hetero Space
 
-⚠️ *HOW TO APPLY* ⚠️
-•⁠  ⁠*Android/iOS* : Geser ke kanan pada postingan.
-•⁠  ⁠*Windows/macOS* : Klik kanan postingan, lalu pilih "Replies".
-Selanjutnya, *balas postingan sesi ini dengan menuliskan namamu* ✍️
+*PLAYER*
+- Agachi
+- Jedo
+- Javier
+- Depiw
+- Bintang
+- Rafi
 
  👀 *DM Note:* 
-- Backstory dan deskripsi/gambar karakter bisa dikirimkan H-1 sebelum sesi. 
 - Jika membutuhkan Sesi 0, silahkan chat DM.
+- Player yang terdaftar diatas silahkan konfirmasi ulang di komen

@@ -1,0 +1,1 @@
+Low res: jadi poligon, arah poligon Utara-Selatan

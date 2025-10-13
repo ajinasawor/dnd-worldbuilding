@@ -1,0 +1,10 @@
+filters:
+  and:
+    - file.inFolder("z_Assets/World Map Hex Tiles")
+views:
+  - type: cards
+    name: Table
+    imageFit: contain
+    image: file.file
+    imageAspectRatio: 0.25
+    cardSize: 170

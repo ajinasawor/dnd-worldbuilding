@@ -1,0 +1,1 @@
+Temp HP +4 if cooked properly

@@ -8,3 +8,5 @@ tags:
 ---
 **Space Dragon** adalah salah satu [[Primordial Gods]] yang mengatur tentang hamparan ekspansi ruang alam semesta, menjaga harmoni ruang-waktu.
 %%Spatium Rex
+
+hitam merah

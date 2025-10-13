@@ -9,3 +9,5 @@ tags:
 **Time Dragon** adalah salah satu [[Primordial Gods]] yang mengatur tentang Aliran waktu, menjaga harmoni ruang-waktu.
 
 %%Tempus Rex
+
+hitam corak biru

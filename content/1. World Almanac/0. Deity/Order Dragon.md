@@ -8,3 +8,5 @@ tags:
 ---
 **Order Dragon** adalah salah satu [[Primordial Gods]], yang mengatur tentang hukum alam dan keteraturan.
 %%Ordreacon
+
+emas
