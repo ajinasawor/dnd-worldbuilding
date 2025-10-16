@@ -3,9 +3,9 @@ title: Dragon Essence Dungeon - Draconia Continent
 draft: false
 tags:
   - index
+banner: pixel-banner-images/WhatsApp Image 2024-12-14 at 09.58.34 (2).jpeg
 ---
 ## Campaign Scheduled
-![[Drawing 2025-10-11 17.25.14.excalidraw]]
 ![[Dragon Essence Dungeons. Game Start - Prolog]]
 
 ---
